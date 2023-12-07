@@ -1,0 +1,14 @@
+@import './reset.scss';
+
+body {
+    font-family: "Poppins", sans-serif;
+	background-color: blanchedalmond;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ececec;
+}
+.container {
+    max-width: 830px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
